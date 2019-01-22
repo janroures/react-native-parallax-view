@@ -5,7 +5,7 @@ Parallax view for vertical scrollview with a header image and header content
 ## Installation
 
 ```bash
-$ npm i react-native-parallax-view --save
+$ npm i https://github.com/janroures/react-native-parallax-view --save
 ```
 
 ## Demo
